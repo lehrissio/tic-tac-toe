@@ -1,70 +1,74 @@
-# Getting Started with Create React App
+# 🎮 Jogo da Velha (Tic-Tac-Toe)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Um jogo da velha clássico desenvolvido em React.js com interface interativa e responsiva.
 
-## Available Scripts
+<img width="1502" height="874" alt="image" src="https://github.com/user-attachments/assets/c6538fb7-b84e-4341-83dd-296a0da80533" />
+<img width="1172" height="856" alt="image" src="https://github.com/user-attachments/assets/38573c4f-e7d1-428a-ad5e-4169b3c5824c" />
 
-In the project directory, you can run:
 
-### `npm start`
+## 📋 Sobre o Projeto
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Este projeto implementa o tradicional jogo da velha (tic-tac-toe) utilizando React.js. O jogo permite que dois jogadores se alternem entre X e O, com detecção automática de vitória.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## ✨ Funcionalidades
 
-### `npm test`
+- 🎯 Jogo para dois jogadores (X e O)
+- 🏆 Detecção automática de vitória
+- 🔄 Reiniciar jogo
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🚀 Tecnologias Utilizadas
 
-### `npm run build`
+- **React.js**
+- **CSS3**
+- **JavaScript** 
+- **HTML5**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🛠️ Instalação e Execução
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Pré-requisitos
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Node.js (versão 14 ou superior)
+- npm ou yarn
 
-### `npm run eject`
+### Passos para executar
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. **Clone o repositório**
+   ```bash
+   git clone https://github.com/lehrissio/tic-tac-toe.git
+   cd tic-tac-toe
+   ```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+2. **Instale as dependências**
+   ```bash
+   npm install
+   # ou
+   yarn install
+   ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+3. **Execute o projeto**
+   ```bash
+   npm start
+   # ou
+   yarn start
+   ```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+4. **Acesse no navegador**
+   
+   Abra [http://localhost:3000](http://localhost:3000) para visualizar no navegador.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 📄 Licença
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-### Code Splitting
+## 👨‍💻 Autor
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+**Lehrissio**
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 🔗 Links Úteis
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [Documentação do React](https://reactjs.org/)
+- [Create React App](https://create-react-app.dev/)
+- [Tutorial oficial do React - Tic-Tac-Toe](https://reactjs.org/tutorial/tutorial.html)
